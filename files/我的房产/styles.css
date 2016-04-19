@@ -1793,7 +1793,7 @@
 #u110 {
   position:absolute;
   left:50px;
-  top:1426px;
+  top:1629px;
   width:320px;
   height:569px;
 }
@@ -1828,7 +1828,7 @@
 #u112 {
   position:absolute;
   left:50px;
-  top:1282px;
+  top:1485px;
   width:200px;
   height:80px;
   font-family:'.PingFang-SC-Light', 'PingFang SC';
@@ -1855,7 +1855,7 @@
 #u114 {
   position:absolute;
   left:50px;
-  top:1361px;
+  top:1564px;
   width:1568px;
   height:1px;
 }
@@ -1889,7 +1889,7 @@
 #u116 {
   position:absolute;
   left:251px;
-  top:1282px;
+  top:1485px;
   width:200px;
   height:80px;
   font-family:'.PingFang-SC-Light', 'PingFang SC';
@@ -1905,29 +1905,7 @@
   width:168px;
   word-wrap:break-word;
 }
-#u118_img {
-  position:absolute;
-  left:0px;
-  top:0px;
-  width:320px;
-  height:569px;
-}
-#u118 {
-  position:absolute;
-  left:50px;
-  top:2040px;
-  width:320px;
-  height:569px;
-}
-#u119 {
-  position:absolute;
-  left:2px;
-  top:276px;
-  width:316px;
-  visibility:hidden;
-  word-wrap:break-word;
-}
-#u120_div {
+#u118_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -1948,7 +1926,7 @@
   text-align:left;
   line-height:24px;
 }
-#u120 {
+#u118 {
   position:absolute;
   left:50px;
   top:45px;
@@ -1962,14 +1940,14 @@
   text-align:left;
   line-height:24px;
 }
-#u121 {
+#u119 {
   position:absolute;
   left:2px;
   top:8px;
   width:317px;
   word-wrap:break-word;
 }
-#u122_div {
+#u120_div {
   position:absolute;
   left:0px;
   top:0px;
@@ -1988,7 +1966,7 @@
   color:#00FFFF;
   line-height:20px;
 }
-#u122 {
+#u120 {
   position:absolute;
   left:50px;
   top:290px;
@@ -2000,10 +1978,32 @@
   color:#00FFFF;
   line-height:20px;
 }
-#u123 {
+#u121 {
   position:absolute;
   left:0px;
   top:0px;
   width:208px;
   white-space:nowrap;
+}
+#u122_img {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:320px;
+  height:569px;
+}
+#u122 {
+  position:absolute;
+  left:390px;
+  top:1629px;
+  width:320px;
+  height:569px;
+}
+#u123 {
+  position:absolute;
+  left:2px;
+  top:276px;
+  width:316px;
+  visibility:hidden;
+  word-wrap:break-word;
 }
